@@ -1,5 +1,7 @@
 
-from time import strftime as tm
+
+
+dari  waktu  impor  strftime  sebagai  tm
 from time import sleep
 from os import system as sis
 import sys
